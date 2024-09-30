@@ -1,0 +1,24 @@
+# 0930lesson
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Link Creation Test</title>
+    <link rel="stylesheet" href="stylesheet.css">  
+</head>
+
+　<header>
+     <div>Header</div>
+ </header>
+
+ <navigation>
+     <div>Navigation</div>
+ </navigation>
+
+ <sidebar>
+     <div>Sidebar</div>
+ </sidebar>
+
+ <footer>
+     <div>Footer</div>
+ </footer>
+</html>
