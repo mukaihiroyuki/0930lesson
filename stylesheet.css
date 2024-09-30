@@ -1,4 +1,28 @@
-.header {
-  color: red;
+header{
+  height: 100px;
+  background-color: #A1B3D1;
+  padding-top: 10px;
 }
 
+nav{
+  height: 100px;
+  background-color: #61D3FC;
+  padding-top: 10px;
+}
+
+main{
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+}
+
+aside{
+  background-color: #EF598D;
+  width: 70%;
+}
+
+footer{
+  height: 200px;
+  background-color: #A1B3D1;
+  padding-top: 10px;
+}
